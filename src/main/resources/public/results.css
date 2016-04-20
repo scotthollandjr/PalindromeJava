@@ -1,0 +1,7 @@
+.winner, .player1, .player2, .title {
+  text-align: center;
+}
+
+.player1Choice, .player2Choice {
+  text-align: center;
+}
